@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku-Solver (GUI)
 Sudoku Solver Program using "Backtracking".
 
 BEWARE! IT IS TOO FAST.
